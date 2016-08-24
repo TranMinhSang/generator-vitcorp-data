@@ -1,4 +1,4 @@
-# generator-vitcorp-data [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-vitcorp-data [![NPM version][npm-image]][https://www.npmjs.com/package/generator-vitcorp-data] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > generate vitcorp data layer
 
 ## Installation
