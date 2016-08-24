@@ -1,4 +1,4 @@
-# generator-vitcorp-data [![NPM version][npm-image]][https://www.npmjs.com/package/generator-vitcorp-data] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-vitcorp-data [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > generate vitcorp data layer
 
 ## Installation
@@ -29,7 +29,7 @@ MIT © [Quang Anh]()
 
 
 [npm-image]: https://badge.fury.io/js/generator-vitcorp-data.svg
-[npm-url]: https://npmjs.org/package/generator-vitcorp-data
+[npm-url]: https://npmjs.com/package/generator-vitcorp-data
 [travis-image]: https://travis-ci.org/quanganh206/generator-vitcorp-data.svg?branch=master
 [travis-url]: https://travis-ci.org/quanganh206/generator-vitcorp-data
 [daviddm-image]: https://david-dm.org/quanganh206/generator-vitcorp-data.svg?theme=shields.io
