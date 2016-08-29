@@ -34,9 +34,5 @@ module.exports = yeoman.Base.extend({
             this.templatePath('_Abstract/_IRepository.cs'),
             this.destinationPath('Abstract/I' + this.props.name + 'Repository.cs'), context
         );
-    },
-
-    install: function() {
-        this.installDependencies();
     }
 });
